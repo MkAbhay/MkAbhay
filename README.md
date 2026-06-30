@@ -1,45 +1,24 @@
-````md
-# Hey, I'm Abhay 👋
+```md
+# Abhay 👨‍💻
 
-```js
-const abhay = {
-  role: "Software Engineer",
-  experience: "3+ years",
-  focus: [
-    "Backend Engineering",
-    "Distributed Systems",
-    "Cloud",
-    "AI Applications"
-  ],
-  currentlyBuilding: [
-    "Scalable APIs",
-    "RAG-powered AI Products",
-    "Microservices"
-  ],
-  philosophy: "Build simple. Scale when needed."
-};
-````
+Backend Engineer.
 
-I enjoy building systems that stay fast, reliable, and easy to maintain.
+I build APIs that survive production, microservices that talk to each other, and AI applications that actually solve problems.
 
-Most of my work lives around backend engineering—from designing APIs and distributed services to deploying cloud-native applications and experimenting with GenAI.
+Current obsession:
+> Scaling systems before scaling teams.
 
-### Tech I enjoy working with
+**Stack**
 
-`Node.js` • `TypeScript` • `Express` • `NestJS` • `React` • `Next.js`
+Node.js · TypeScript · NestJS · Express
 
-`MySQL` • `MongoDB` • `Redis` • `RabbitMQ`
+MySQL · Redis · RabbitMQ
 
-`AWS` • `Docker` • `GitHub Actions`
+AWS · Docker · GitHub Actions
 
-`OpenAI` • `LangChain` • `RAG`
+OpenAI · RAG · LangChain
 
 ---
 
-> Good software isn't about writing more code.
-> It's about needing less of it.
-
-Always open to building cool things and solving interesting engineering problems.
-
-```
+Outside of work you'll probably find me learning system design, experimenting with AI, or breaking things just to understand how they work.
 ```
