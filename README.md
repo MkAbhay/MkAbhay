@@ -40,6 +40,3 @@ Most of my work lives around backend engineering—from designing APIs and distr
 > It's about needing less of it.
 
 Always open to building cool things and solving interesting engineering problems.
-
-```
-```
